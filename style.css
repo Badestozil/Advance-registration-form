@@ -1,0 +1,19 @@
+/* Add this to styles.css */
+.form-group input[type="checkbox"] {
+  width: auto;
+  margin-right: 10px;
+}
+
+.form-group label[for="terms"] {
+  display: inline;
+  font-size: 14px;
+}
+
+.form-group a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.form-group a:hover {
+  text-decoration: underline;
+}
